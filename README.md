@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pulkit320
 - 👀 I’m interested in c++ programing and machine learning 
-- 🌱 I’m currently learning c language and will switch to c++
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
