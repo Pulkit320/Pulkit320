@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pulkit320
-- 👀 I’m interested in c++ programing and machine learning 
-- 🌱 I’m currently learning DSA 
+- 👀 I’m interested in c++ programing and machine learning
 - 💞️ I’m looking for ideas and collabration for some peojects
 - 📫 How to reach me bathwalpulkit73@gmail.com
 
