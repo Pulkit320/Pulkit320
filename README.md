@@ -47,18 +47,42 @@ https://www.linkedin.com/in/pulkit-bathwal-72875a280)
 
 ### GitHub Stats
 
-<a href="https://github.com/Pulkit320">
-  <img height=200 align = "center" src = "https://github-readme-stats.vercel.app/api?username=Pulkit320&show_icons=true&theme=radical"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Pulkit320&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Pulkit320&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pulkit320&show_icons=true" height=200 />
+</picture>
 
-<a href="https://github.com/Pulkit320">
-  <img height=200 align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit320&layout=compact&theme=radical"/>
-</a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit320&layout=compact&theme=radical&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit320&layout=compact&theme=default&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulki320&layout=compact&langs_count=8&card_width=320" height=200 />
+</picture>
 
 ---
 
-<a href="https://github.com/Pulkit320">
-  <img height=200 align = "center" src = "https://streak-stats.demolab.com/?user=Pulkit320&theme=radical"/>
-</a>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Pulkit320&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Pulkit320&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=Pulkit320" />
+</picture>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet)
