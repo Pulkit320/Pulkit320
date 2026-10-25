@@ -42,3 +42,9 @@ https://www.linkedin.com/in/pulkit-bathwal-72875a280)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulkit320&show_icons=true&theme=radical)
