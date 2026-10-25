@@ -10,5 +10,5 @@ I'm a developer passionate about building things and learning new technologies.
 - ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
-www.linkedin.com/in/pulkit-bathwal-72875a280)
+https://www.linkedin.com/in/pulkit-bathwal-72875a280)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pulkit-bathwal.vercel.app/)
