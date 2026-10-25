@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Pulki Kumar Bathwal 👋
 
-<!--
-**Pulkit320/Pulkit320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building things and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on personal projects
+- 🌱 Learning about backend development, system design, and applied AI
+- 💬 Interested in software engineering and building practical applications
+- 📫 How to reach me: bathwalpulkit73@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+www.linkedin.com/in/pulkit-bathwal-72875a280)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pulkit-bathwal.vercel.app/)
